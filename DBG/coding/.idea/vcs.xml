@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/backend/createServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/expressServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/mongoose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fullstack/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fullstack/backend/backend" vcs="Git" />
+  </component>
+</project>

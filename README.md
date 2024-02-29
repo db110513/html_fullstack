@@ -1,7 +1,6 @@
 # html.fullstack
 
-Projecte molt senzill que mostra la interacció entre un arxiu HTML i un servidor creat amb Express.
+Simple project of an HTL file that allows the user to download a .txt file stored in a server created by Express using Node JS.
 
-L'arxiu HTML conté un botó que permet la descàrrega d'un arxiu .txt allotjat al servidor.
-
+Compiled code:
 https://www.loom.com/share/1c9783dcf8114e6590bfcccc47e41bb5
